@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U4Djutx30bkYUPR/PorY/wNQZ/nIQJwDvZjkpN9QowSV1BdhYyjb3gLD1SmvLJyQlvtnZ2UgfOpYbuz++L9BzQ==",
+  "dgSpecHash": "ibM3N+Rq5Rd82Rky+ehbr+vt2K6S5ArjeHG8DNlt4K0AOvC8HUoA0jsetiERsUsK4FxNCuc8CRcbA8Op0KpBEw==",
   "success": true,
-  "projectFilePath": "C:\\PracticasAzure\\2-webappservice\\webappserviceuno\\webappserviceuno.csproj",
+  "projectFilePath": "C:\\PracticasAzure\\appserviceazure\\webappserviceuno\\webappserviceuno.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

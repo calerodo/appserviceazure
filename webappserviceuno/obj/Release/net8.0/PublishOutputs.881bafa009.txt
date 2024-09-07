@@ -1,0 +1,7 @@
+C:\PracticasAzure\appserviceazure\bin\Publish\webappserviceuno.exe
+C:\PracticasAzure\appserviceazure\bin\Publish\appsettings.Development.json
+C:\PracticasAzure\appserviceazure\bin\Publish\appsettings.json
+C:\PracticasAzure\appserviceazure\bin\Publish\webappserviceuno.dll
+C:\PracticasAzure\appserviceazure\bin\Publish\webappserviceuno.deps.json
+C:\PracticasAzure\appserviceazure\bin\Publish\webappserviceuno.runtimeconfig.json
+C:\PracticasAzure\appserviceazure\bin\Publish\webappserviceuno.pdb

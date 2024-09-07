@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\PracticasAzure\\2-webappservice\\webappserviceuno\\webappserviceuno.csproj": {}
+    "C:\\PracticasAzure\\appserviceazure\\webappserviceuno\\webappserviceuno.csproj": {}
   },
   "projects": {
-    "C:\\PracticasAzure\\2-webappservice\\webappserviceuno\\webappserviceuno.csproj": {
+    "C:\\PracticasAzure\\appserviceazure\\webappserviceuno\\webappserviceuno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\PracticasAzure\\2-webappservice\\webappserviceuno\\webappserviceuno.csproj",
+        "projectUniqueName": "C:\\PracticasAzure\\appserviceazure\\webappserviceuno\\webappserviceuno.csproj",
         "projectName": "webappserviceuno",
-        "projectPath": "C:\\PracticasAzure\\2-webappservice\\webappserviceuno\\webappserviceuno.csproj",
+        "projectPath": "C:\\PracticasAzure\\appserviceazure\\webappserviceuno\\webappserviceuno.csproj",
         "packagesPath": "C:\\Users\\YesseniaLR\\.nuget\\packages\\",
-        "outputPath": "C:\\PracticasAzure\\2-webappservice\\webappserviceuno\\obj\\",
+        "outputPath": "C:\\PracticasAzure\\appserviceazure\\webappserviceuno\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
